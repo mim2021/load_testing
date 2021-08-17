@@ -1,0 +1,34 @@
+{
+  "OrangeHrm API" : {
+    "transaction" : "OrangeHrm API",
+    "sampleCount" : 800,
+    "errorCount" : 21,
+    "errorPct" : 2.625,
+    "meanResTime" : 47026.95249999999,
+    "medianResTime" : 48013.5,
+    "minResTime" : 17006.0,
+    "maxResTime" : 116086.0,
+    "pct1ResTime" : 63212.6,
+    "pct2ResTime" : 66607.04999999999,
+    "pct3ResTime" : 76636.70000000001,
+    "throughput" : 6.8454469221159275,
+    "receivedKBytesPerSec" : 256.1521782960827,
+    "sentKBytesPerSec" : 0.8852954452107542
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 800,
+    "errorCount" : 21,
+    "errorPct" : 2.625,
+    "meanResTime" : 47026.95249999999,
+    "medianResTime" : 48013.5,
+    "minResTime" : 17006.0,
+    "maxResTime" : 116086.0,
+    "pct1ResTime" : 63212.6,
+    "pct2ResTime" : 66607.04999999999,
+    "pct3ResTime" : 76636.70000000001,
+    "throughput" : 6.8454469221159275,
+    "receivedKBytesPerSec" : 256.1521782960827,
+    "sentKBytesPerSec" : 0.8852954452107542
+  }
+}
